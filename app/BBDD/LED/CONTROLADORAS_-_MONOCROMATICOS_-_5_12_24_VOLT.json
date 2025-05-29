@@ -1,0 +1,107 @@
+[
+    {
+        "img": "0000015",
+        "objects": [
+            {
+                "img": "015-001",
+                "code": "CON-MONO-BTH",
+                "description": "Controladora monocromática - Control Bluetooth p/ smartphone - 12/24 volt",
+                "amp": "5",
+                "signal": "BLUETOOTH",
+                "range": "10 Metros",
+                "pack": "1",
+                "price": "22,50"
+            },
+            {
+                "img": "015-002",
+                "code": "CON-MONO-WIFI",
+                "description": "Controladora monocromática - Control Wifi p/ smartphone - 12/24 volt",
+                "amp": "8",
+                "signal": "WIFI",
+                "range": "DELIMITADO POR LA RED",
+                "pack": "1",
+                "price": "47,00"
+            },
+            {
+                "img": "015-003",
+                "code": "CON-MONO-RF",
+                "description": "Controladora monocromática - 5 Amp  - Control con radiofrecuencia - 12/24 volt",
+                "amp": "5",
+                "signal": "RADIO-FRECUENCIA",
+                "range": "8 Metros",
+                "pack": "1",
+                "price": "15,00"
+            },
+            {
+                "img": "015-004",
+                "code": "CON-MONO-P",
+                "description": "Controladora monocromática - 8 Amp - Control con perilla - 12/24 volt",
+                "amp": "8",
+                "signal": "PERILLA",
+                "range": "CABLEADO",
+                "pack": "1",
+                "price": "14,00"
+            },
+            {
+                "img": "015-005",
+                "code": "CON-MONO-P30",
+                "description": "Controladora monocromática - 30 Amp - Control con perilla - 12/24 volt",
+                "amp": "30",
+                "signal": "PERILLA",
+                "range": "CABLEADO",
+                "pack": "1",
+                "price": "22,00"
+            },
+            {
+                "img": "015-006",
+                "code": "CON-MONO-RF25A",
+                "description": "Controladora monocromática - 25 Amp - 300 w - Control Touch - Radiofrecuencia - Alcance máximo 30 mts",
+                "amp": "25",
+                "signal": "RADIO-FRECUENCIA",
+                "range": "30 Metros",
+                "pack": "1",
+                "price": "240,00"
+            },
+            {
+                "img": "015-007",
+                "code": "PV-100",
+                "description": "Panel táctil CCT de 4 zonas - Wifi - Requiere controlador CON-MONO-PRO - Alcance máximo 30 mts",
+                "amp": "-",
+                "signal": "WIFI",
+                "range": "DELIMITADO POR LA RED",
+                "pack": "1",
+                "price": "150,00"
+            },
+            {
+                "img": "015-008",
+                "code": "R-10",
+                "description": "Control remoto CCT de 4 zonas - Radiofrecuencia 2.4 GHz - Requiere controlador CON-MONO-PRO - Alcance máximo 30 mts",
+                "amp": "10",
+                "signal": "RADIO-FRECUENCIA",
+                "range": "30 Metros",
+                "pack": "1",
+                "price": "44,00"
+            },
+            {
+                "img": "015-009",
+                "code": "CON-MONO-PRO",
+                "description": "Controladora monocromática - 12 Amp - Radiofrecuencia + Wifi - Alcance máximo 30 mts",
+                "amp": "12",
+                "signal": "WIFI + RADIO-FRECUENCIA",
+                "range": "DELIMITADO POR LA RED",
+                "pack": "1",
+                "price": "150,00"
+            },
+            {
+                "img": "015-0010",
+                "code": "SP1002",
+                "description": "Control secuencial para escalones - 12/24 volt - Potencia máx 400w - 32 puertos",
+                "amp": "-",
+                "signal": "CON SENSORES DE MOVIMIENTO",
+                "range": "AUTOMÁTICO",
+                "pack": "1",
+                "price": "210,00"
+            }
+        ]
+    }
+]

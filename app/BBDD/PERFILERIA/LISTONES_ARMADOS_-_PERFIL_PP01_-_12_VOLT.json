@@ -1,0 +1,43 @@
+[
+  {
+    "img": "200013",
+    "objects": [
+      {
+        "img": "213-001",
+        "code": "9751",
+        "description": "Listón armado para PerfilPP01 con led 5630 - Bco. Frio - 12 volt - 10 w/m - 72 leds/m - Largo de 0.5 mts",
+        "lm": "1100.0",
+        "w_m": "10.0",
+        "prot": "IP20",
+        "led_m": "72.0",
+        "ct": "6000ºK",
+        "pack": "5",
+        "price": "7,00"
+      },
+      {
+        "img": "213-002",
+        "code": "9752",
+        "description": "Listón armado para PerfilPP01 con led 5630 - Bco. Cálido - 12 volt - 10 w/m - 72 leds/m - Largo de 0.5 mts",
+        "lm": "1100.0",
+        "w_m": "10.0",
+        "prot": "IP20",
+        "led_m": "72.0",
+        "ct": "3000ºK",
+        "pack": "5",
+        "price": "7,00"
+      },
+      {
+        "img": "213-003",
+        "code": "9701",
+        "description": "Listón armado para PerfilPP01 con led 5630 - Bco. Frio - 12 volt - 10 w/m - 72 leds/m - Largo de 1 mts",
+        "lm": "1100.0",
+        "w_m": "10.0",
+        "prot": "IP20",
+        "led_m": "72.0",
+        "ct": "6000ºK",
+        "pack": "5",
+        "price": "10,00"
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "img": "0000011",
+        "objects": [
+            {
+                "img": "011-001",
+                "code": "COB220-BF",
+                "description": "Pastilla COB - Blanco Frio - 220 volt - 50 watt",
+                "lm": "7500",
+                "w/u": "50",
+                "prot": "IP20",
+                "amp": "0,22",
+                "ct": "6000ºK",
+                "pack": "4",
+                "price": "11,00"
+            },
+            {
+                "img": "011-002",
+                "code": "COB220-BC",
+                "description": "Pastilla COB - Blanco Cálido - 220 volt - 50 watt",
+                "lm": "7500",
+                "w/u": "50",
+                "prot": "IP20",
+                "amp": "0,22",
+                "ct": "3000ºK",
+                "pack": "4",
+                "price": "11,00"
+            },
+            {
+                "img": "011-003",
+                "code": "COB220-FSPECT",
+                "description": "Pastilla COB - Full Spectrum - 220 volt - 50 watt",
+                "lm": "7500",
+                "w/u": "50",
+                "prot": "IP20",
+                "amp": "0,22",
+                "ct": "-",
+                "pack": "4",
+                "price": "11,00"
+            }
+        ]
+    }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "img": "200012",
+    "objects": [
+      {
+        "img": "212-001",
+        "code": "T01-OP",
+        "description": "Tapa color Opal para Perfil PP01, PH y PV",
+        "prfil": "PP01, PH, PV",
+        "material": "Plástico",
+        "color": "Opal",
+        "pack": "5",
+        "price": "13,00"
+      },
+      {
+        "img": "212-002",
+        "code": "T01-TR",
+        "description": "Tapa color Transparente para Perfil PP01, PH y PV",
+        "prfil": "PP01, PH, PV",
+        "material": "Plástico",
+        "color": "Transparente",
+        "pack": "5",
+        "price": "13,00"
+      },
+      {
+        "img": "212-003",
+        "code": "T01-PC",
+        "description": "Tapa de Policarbonato para Perfil PP01, PH y PV",
+        "prfil": "PP01, PH, PV",
+        "material": "Policarbonato",
+        "color": "Opal",
+        "pack": "5",
+        "price": "21,50"
+      },
+      {
+        "img": "212-004",
+        "code": "T02-OP",
+        "description": "Tapa color Opal para Perfil PP02",
+        "prfil": "PP02",
+        "material": "Plástico",
+        "color": "Opal",
+        "pack": "5",
+        "price": "9,00"
+      },
+      {
+        "img": "212-005",
+        "code": "T03-OP",
+        "description": "Tapa color Opal para Perfil PP03",
+        "prfil": "PP03",
+        "material": "Plástico",
+        "color": "Opal",
+        "pack": "5",
+        "price": "24,00"
+      }
+    ]
+  }
+]

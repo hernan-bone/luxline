@@ -1,0 +1,42 @@
+[
+    {
+        "img": "500000",
+        "objects": [
+            {
+                "img": "500-001",
+                "code": "CAB-RN-035",
+                "description": "Cable bipolar 2 x 0.35 mm² - Rojo y negro",
+                "pack": "100 Metros",
+                "price": "1,50"
+            },
+            {
+                "img": "500-002",
+                "code": "CAB-BCO-035",
+                "description": "Cable bipolar 2 x 0.35 mm² - Blanco",
+                "pack": "100 Metros",
+                "price": "1,50"
+            },
+            {
+                "img": "500-003",
+                "code": "CAB-RN-050",
+                "description": "Cable bipolar 2 x 0.50 mm² - Rojo y negro",
+                "pack": "100 Metros",
+                "price": "SIN STOCK"
+            },
+            {
+                "img": "500-004",
+                "code": "CAB-RGB-035",
+                "description": "Cable tetrapolar 4 x 0.35 mm² para RGB - Rojo, verde, azul y negro",
+                "pack": "100 Metros",
+                "price": "2,50"
+            },
+            {
+                "img": "500-005",
+                "code": "CAB-RGBW-035",
+                "description": "Cable pentapolar 5 x 0.35 mm² para RGBW - Rojo, verde, azul, negro y blanco",
+                "pack": "100 Metros",
+                "price": "2,80"
+            }
+        ]
+    }
+]

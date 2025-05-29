@@ -1,0 +1,37 @@
+[
+  {
+    "img": "200001",
+    "objects": [
+      {
+        "img": "201-001",
+        "code": "PP01-AT-3",
+        "description": "Perfil de empotrar o superficie con punteras y grampas de sujeción - Aluminio anodizado - Largo 3 mts  /  Protector Transparente - Perfil PP01",
+        "pun-gram": "6 Punteras, 6 Grampas",
+        "material": "Aluminio anodizado",
+        "dfsor": "Transp",
+        "pack": "10",
+        "price": "33,00"
+      },
+      {
+        "img": "201-002",
+        "code": "PP01-AO-3",
+        "description": "Perfil de empotrar o superficie con punteras y grampas de sujeción - Aluminio anodizado - Largo 3 mts  /  Protector Opal - Perfil PP01",
+        "pun-gram": "6 Punteras, 6 Grampas",
+        "material": "Aluminio anodizado",
+        "dfsor": "Opal",
+        "pack": "10",
+        "price": "33,00"
+      },
+      {
+        "img": "201-003",
+        "code": "PP01-NO-3",
+        "description": "Perfil de empotrar o superficie con punteras y grampas de sujeción - Negro - Largo 3 mts  /  Protector Opal - Perfil PP01",
+        "pun-gram": "6 Punteras, 6 Grampas",
+        "material": "Aluminio anodizado",
+        "dfsor": "Opal",
+        "pack": "10",
+        "price": "39,00"
+      }
+    ]
+  }
+]

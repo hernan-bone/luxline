@@ -1,0 +1,27 @@
+[
+  {
+    "img": "200004",
+    "objects": [
+      {
+        "img": "204-001",
+        "code": "PA-AO-3",
+        "description": "Perfil ángulo con punteras y grampas de sujeción - Aluminio anodizado - Largo 3 mts / Protector Opal - Perfil PA",
+        "pun-gram": "6 Punteras, 6 Grampas",
+        "material": "Aluminio anodizado",
+        "dfsor": "Opal",
+        "pack": "5",
+        "price": "38,00"
+      },
+      {
+        "img": "204-002",
+        "code": "PA-NO-3",
+        "description": "Perfil ángulo con punteras y grampas de sujeción - Negro - Largo 3 mts / Protector Opal - Perfil PA",
+        "pun-gram": "6 Punteras, 6 Grampas",
+        "material": "Aluminio anodizado",
+        "dfsor": "Opal",
+        "pack": "5",
+        "price": "38,00"
+      }
+    ]
+  }
+]

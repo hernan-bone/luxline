@@ -1,0 +1,62 @@
+[
+    {
+        "img": "200002",
+        "objects": [
+            {
+                "img": "202-001",
+                "code": "FS-3M",
+                "description": "Fuente metálica Slim switching - 3 Amp - Salida 12 volt  /  Entrada 220 volt - IP20",
+                "measures": "8.5 x 5.7 x 3.5",
+                "amp": "3",
+                "watt": "36",
+                "out": "Bornera",
+                "pack": "5",
+                "price": "SIN STOCK"
+            },
+            {
+                "img": "202-002",
+                "code": "FS-5M",
+                "description": "Fuente metálica Slim switching - 5 Amp - Salida 12 volt  /  Entrada 220 volt - IP20",
+                "measures": "16 x 4 x 3.2",
+                "amp": "5",
+                "watt": "60",
+                "out": "Bornera",
+                "pack": "5",
+                "price": "SIN STOCK"
+            },
+            {
+                "img": "202-003",
+                "code": "FS-10M",
+                "description": "Fuente metálica Slim switching - 10 Amp - Salida 12 volt  /  Entrada 220 volt - IP20",
+                "measures": "19 x 4.5 x 3.5",
+                "amp": "10",
+                "watt": "120",
+                "out": "Bornera",
+                "pack": "3",
+                "price": "SIN STOCK"
+            },
+            {
+                "img": "202-004",
+                "code": "FS-20M",
+                "description": "Fuente metálica Slim switching - 20 Amp - Salida 12 volt  /  Entrada 220 volt - IP20",
+                "measures": "22.3 x 6.8 x 4",
+                "amp": "20",
+                "watt": "240",
+                "out": "Bornera",
+                "pack": "3",
+                "price": "SIN STOCK"
+            },
+            {
+                "img": "202-005",
+                "code": "FS-30M",
+                "description": "Fuente metálica Slim switching - 30 Amp - Salida 12 volt  /  Entrada 220 volt - IP20",
+                "measures": "22.2 x 6.7 x 4",
+                "amp": "20",
+                "watt": "360",
+                "out": "Bornera",
+                "pack": "3",
+                "price": "SIN STOCK"
+            }
+        ]
+    }
+]

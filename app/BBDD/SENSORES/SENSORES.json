@@ -1,0 +1,47 @@
+[
+    {
+        "img": "400000",
+        "objects": [
+            {
+                "img": "400-001",
+                "code": "5995",
+                "description": "Sensor de encendido para perfil con testigo azul (encendido + dimmer) - 12/24 volt - Largo de 47 mm",
+                "amp": "8",
+                "control": "Táctil",
+                "sensor": "Touch + Dimmer (con memoria)",
+                "pack": "5",
+                "price": "18,00"
+            },
+            {
+                "img": "400-002",
+                "code": "5996",
+                "description": "Sensor de encendido para perfil - Encendido / Apagado PIR - 12/24 volt",
+                "amp": "8",
+                "control": "Presencia ON < 2 mts",
+                "sensor": "Sensor PIR (ON/OFF)+Sensor luz",
+                "pack": "2",
+                "price": "22,00"
+            },
+            {
+                "img": "400-003",
+                "code": "5981",
+                "description": "Sensor de encendido para perfil - Encendido / Apagado PIR - Sensor extendido - 8 Amp - 12/24 volt",
+                "amp": "8",
+                "control": "Presencia ON < 2 mts",
+                "sensor": "Sensor PIR (ON/OFF)+Sensor luz",
+                "pack": "2",
+                "price": "22,00"
+            },
+            {
+                "img": "400-004",
+                "code": "SB-1",
+                "description": "Sensor de encendido por barrido de mano - 12/24 volt",
+                "amp": "8",
+                "control": "-",
+                "sensor": "Sensor ON/OFF",
+                "pack": "5",
+                "price": "15,00"
+            }
+        ]
+    }
+]

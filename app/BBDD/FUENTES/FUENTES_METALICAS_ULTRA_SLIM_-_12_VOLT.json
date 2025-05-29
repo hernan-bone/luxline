@@ -1,0 +1,62 @@
+[
+    {
+        "img": "200003",
+        "objects": [
+            {
+                "img": "203-001",
+                "code": "FXS-5M12",
+                "description": "Fuente metálica Ultra Slim - 5 Amp - Salida 12 volt - Solo uso cinta led  /  Entrada 220 volt - IP20",
+                "measures": "12 x 3.5 x 2.5",
+                "amp": "5",
+                "watt": "60",
+                "out": "Bornera",
+                "pack": "5",
+                "price": "25,00"
+            },
+            {
+                "img": "203-002",
+                "code": "FXS-8.3M12",
+                "description": "Fuente metálica Ultra Slim - 8.3 Amp - Salida  12 volt - Solo uso cinta led  /  Entrada 220 volt - IP20",
+                "measures": "17 x 3.5 x 2.5",
+                "amp": "8,3",
+                "watt": "100",
+                "out": "Bornera",
+                "pack": "5",
+                "price": "33,00"
+            },
+            {
+                "img": "203-003",
+                "code": "FXS-12.5M12",
+                "description": "Fuente metálica Ultra Slim - 12.5 Amp - Salida 12 volt - Solo uso cinta led  /  Entrada 220 volt - IP20",
+                "measures": "14.5 x 4.7 x 2.8",
+                "amp": "12,5",
+                "watt": "150",
+                "out": "Bornera",
+                "pack": "5",
+                "price": "43,00"
+            },
+            {
+                "img": "203-004",
+                "code": "FXS-25M12",
+                "description": "Fuente metálica Ultra Slim - 25 Amp - Salida 12 volt - Solo uso cinta led  /  Entrada 220 volt - IP20",
+                "measures": "18.7 x 6.5 x 3",
+                "amp": "25",
+                "watt": "300",
+                "out": "Bornera",
+                "pack": "5",
+                "price": "61,00"
+            },
+            {
+                "img": "203-005",
+                "code": "FXS-33M12",
+                "description": "Fuente metálica Ultra Slim - 33 Amp - Salida 12 volt - Solo uso cinta led  /  Entrada 220 volt - IP20",
+                "measures": "20.8 x 6.2 x 3",
+                "amp": "33",
+                "watt": "400",
+                "out": "Bornera",
+                "pack": "5",
+                "price": "66,00"
+            }
+        ]
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "img": "10005",
+        "objects": [
+            {
+                "img": "15-001",
+                "code": "KIT-MN12-AZ",
+                "description": "KIT - Manguera neón Azul - 12 volt - 120 led/m - Sección 5 x 11 mm - Largo de 5 metros *Fuente plástica 3 Amp",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "-",
+                "pack": "5 Metros",
+                "price": "45,00"
+            },
+            {
+                "img": "15-002",
+                "code": "KIT-MN12-BF",
+                "description": "KIT - Manguera neón Bco. Frio - 12 volt - 120 led/m - Sección 5 x 11 mm - Largo de 5 metros *Fuente plástica 3 Amp",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "6000ºK",
+                "pack": "5 Metros",
+                "price": "45,00"
+            },
+            {
+                "img": "15-003",
+                "code": "KIT-MN12-R",
+                "description": "KIT - Manguera neón Rojo - 12 volt - 120 led/m - Sección 5 x 11 mm - Largo de 5 metros *Fuente plástica 3 Amp",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "-",
+                "pack": "5 Metros",
+                "price": "45,00"
+            },
+            {
+                "img": "15-004",
+                "code": "KIT-MN12-V",
+                "description": "KIT - Manguera neón Verde - 12 volt - 120 led/m - Sección 5 x 11 mm - Largo de 5 metros *Fuente plástica 3 Amp",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "-",
+                "pack": "5 Metros",
+                "price": "40,00"
+            },
+            {
+                "img": "15-005",
+                "code": "KIT-MN12-RGB",
+                "description": "KIT - Manguera neón RGB - 12 volt - 120 led/m - Sección 5 x 11 mm - Largo de 5 mts *Fuente plástica 5 Amp *Controladora Infrarroja 24 teclas",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "-",
+                "pack": "5 Metros",
+                "price": "120,00"
+            },
+            {
+                "img": "15-006",
+                "code": "KIT-PMN12-RGB",
+                "description": "KIT - Manguera neón Pixel RGB - 12 volt - 96 led/m - Sección 6 x 12 mm - Largo de 5 mts *Fuente plástica 5 Amp *Controladora Inalámbrica",
+                "lm": "1000",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "96",
+                "ct": "-",
+                "pack": "5 Metros",
+                "price": "180,00"
+            }
+        ]
+    }
+]

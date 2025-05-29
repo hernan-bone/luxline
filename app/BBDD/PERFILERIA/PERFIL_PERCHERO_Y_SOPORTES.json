@@ -1,0 +1,47 @@
+[
+  {
+    "img": "200008",
+    "objects": [
+      {
+        "img": "208-001",
+        "code": "PPERCH-3",
+        "description": "Perfil perchero - Aluminio anodizado - Largo de 3 mts - Perfil PERCH",
+        "pun-gram": "-",
+        "material": "Aluminio anodizado",
+        "dfsor": "Opal",
+        "pack": "4",
+        "price": "45,00"
+      },
+      {
+        "img": "208-002",
+        "code": "PERCH-SOP-1",
+        "description": "Soporte extremo- Accesorio p/ Perfil PERCH",
+        "pun-gram": "-",
+        "material": "Cromado",
+        "dfsor": "-",
+        "pack": "10",
+        "price": "1,50"
+      },
+      {
+        "img": "208-003",
+        "code": "PERCH-SOP-2",
+        "description": "Soporte medio - Accesorio p/ Perfil PERCH",
+        "pun-gram": "-",
+        "material": "Cromado",
+        "dfsor": "-",
+        "pack": "5",
+        "price": "4,50"
+      },
+      {
+        "img": "208-004",
+        "code": "PERCH-SOP-3",
+        "description": "Soporte medio regulable - Accesorio p/ Perfil PERCH",
+        "pun-gram": "-",
+        "material": "Cromado",
+        "dfsor": "-",
+        "pack": "5",
+        "price": "5,00"
+      }
+    ]
+  }
+]

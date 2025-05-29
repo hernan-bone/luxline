@@ -1,0 +1,43 @@
+[
+    {
+        "img": "1000010",
+        "objects": [
+            {
+                "img": "110-001",
+                "code": "MC1010 -12-BN-50",
+                "description": "Rollo manguera led cuadrada - Bco. Neutro - 12 volt - 900 Lm/m - 10 w/m - IP67 - Sección 10 x 10 mm - Largo de 50 mts",
+                "lm": "900",
+                "w/m": "10",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "4000ºK",
+                "pack": "50 Metros",
+                "price": "650,00"
+            },
+            {
+                "img": "110-002",
+                "code": "MC1414 -12-BN-50",
+                "description": "Rollo manguera led cuadrada - Bco. Neutro - 12 volt - 1100 Lm/m - 14 w/m - IP67 - Sección 14 x 14 mm - Largo de 50 mts",
+                "lm": "1100",
+                "w/m": "14",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "4000ºK",
+                "pack": "50 Metros",
+                "price": "780,00"
+            },
+            {
+                "img": "110-003",
+                "code": "MC1616 -12-BN-50",
+                "description": "Rollo manguera led cuadrada - Bco. Neutro - 12 volt - 1400 Lm/m - 16 w/m - IP67 - Sección 16 x 16 mm - Largo de 50 mts",
+                "lm": "1400",
+                "w/m": "16",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "4000ºK",
+                "pack": "50 Metros",
+                "price": "950,00"
+            }
+        ]
+    }
+]

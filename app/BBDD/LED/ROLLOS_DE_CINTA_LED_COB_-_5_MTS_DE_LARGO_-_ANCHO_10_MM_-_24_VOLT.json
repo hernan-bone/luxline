@@ -1,0 +1,43 @@
+[
+    {
+        "img": "000008",
+        "objects": [
+            {
+                "img": "08-001",
+                "code": "COB520-BFI24",
+                "description": "Rollo cinta led COB Bco. Frio Interior - 24 Volt - 3500 Lm/m - 15 w/m - 520 led/m - IP20 - Largo de 5 mts",
+                "lm": "3500",
+                "w/m": "15",
+                "prot": "IP20",
+                "led/m": "520",
+                "ct": "6000ºK",
+                "pack": "1",
+                "price": "140,00"
+            },
+            {
+                "img": "08-002",
+                "code": "COB520-BCI24",
+                "description": "Rollo cinta led COB Bco. Cálido Interior - 24 Volt - 3500 Lm/m - 15 w/m - 520 led/m - IP20 - Largo de 5 mts",
+                "lm": "3500",
+                "w/m": "15",
+                "prot": "IP20",
+                "led/m": "520",
+                "ct": "3000ºK",
+                "pack": "1",
+                "price": "140,00"
+            },
+            {
+                "img": "08-003",
+                "code": "COB520-BNI24",
+                "description": "Rollo cinta led COB Bco. Neutro Interior - 24 Volt - 3500 Lm/m - 15 w/m - 520 led/m - IP20 - Largo de 5 mts",
+                "lm": "3500",
+                "w/m": "15",
+                "prot": "IP20",
+                "led/m": "520",
+                "ct": "4000ºK",
+                "pack": "1",
+                "price": "140,00"
+            }
+        ]
+    }
+]

@@ -1,0 +1,151 @@
+[
+    {
+        "img": "10002",
+        "objects": [
+            {
+                "img": "12-001",
+                "code": "CNT-99",
+                "description": "Conector rectificador para manguera neón led de sección 8 x 16 mm - Monocromático - 220 volt",
+                "lm": "-",
+                "w/m": "-",
+                "prot": "-",
+                "led/m": "-",
+                "ct": "-",
+                "pack": "-",
+                "price": "15,00"
+            },
+            {
+                "img": "12-002",
+                "code": "CNT-99-1409",
+                "description": "Conector rectificador para manguera neón led de sección 14 x 9 mm - Monocromático - 220 volt",
+                "lm": "-",
+                "w/m": "-",
+                "prot": "-",
+                "led/m": "-",
+                "ct": "-",
+                "pack": "-",
+                "price": "15,00"
+            },
+            {
+                "img": "12-003",
+                "code": "CNT-99-1007",
+                "description": "Conector rectificador para manguera neón led COB de sección 10 x 7 mm - Monocromático - 220 volt",
+                "lm": "-",
+                "w/m": "-",
+                "prot": "-",
+                "led/m": "-",
+                "ct": "-",
+                "pack": "-",
+                "price": "15,00"
+            },
+            {
+                "img": "12-004",
+                "code": "CNT-97",
+                "description": "Conector rectificador para manguera neón led - Monocromático dimerizable - 220 volt",
+                "lm": "-",
+                "w/m": "-",
+                "prot": "-",
+                "led/m": "-",
+                "ct": "-",
+                "pack": "-",
+                "price": "20,00"
+            },
+            {
+                "img": "12-005",
+                "code": "CNT-96",
+                "description": "Tapón para manguera led de sección 8 x 16 mm y 14 x 9 mm",
+                "lm": "-",
+                "w/m": "-",
+                "prot": "-",
+                "led/m": "-",
+                "ct": "-",
+                "pack": "10",
+                "price": "0,40"
+            },
+            {
+                "img": "12-006",
+                "code": "CNT-96-1007",
+                "description": "Tapón para manguera led COB de sección 10 x 7 mm",
+                "lm": "-",
+                "w/m": "-",
+                "prot": "-",
+                "led/m": "-",
+                "ct": "-",
+                "pack": "10",
+                "price": "0,40"
+            },
+            {
+                "img": "12-007",
+                "code": "CNT-98",
+                "description": "Conector para manguera de led RGB - Con controlador - 220 volt",
+                "lm": "-",
+                "w/m": "-",
+                "prot": "-",
+                "led/m": "-",
+                "ct": "-",
+                "pack": "-",
+                "price": "30,00"
+            },
+            {
+                "img": "12-008",
+                "code": "CNT-94",
+                "description": "Grampa para manguera neón led - Monocromático - Sección 8 x 16 mm - Largo de 4.5 cm",
+                "lm": "-",
+                "w/m": "-",
+                "prot": "-",
+                "led/m": "-",
+                "ct": "-",
+                "pack": "10",
+                "price": "1,50"
+            },
+            {
+                "img": "12-009",
+                "code": "CNT-PIN",
+                "description": "Pin bipolar para manguera led de sección 8 x 16 mm - 220 volt",
+                "lm": "-",
+                "w/m": "-",
+                "prot": "-",
+                "led/m": "-",
+                "ct": "-",
+                "pack": "10",
+                "price": "0,50"
+            },
+            {
+                "img": "12-0010",
+                "code": "CNT-PIN-1409",
+                "description": "Pin bipolar para manguera led de sección 14 x 9 mm - 220 volt",
+                "lm": "-",
+                "w/m": "-",
+                "prot": "-",
+                "led/m": "-",
+                "ct": "-",
+                "pack": "10",
+                "price": "0,50"
+            },
+            {
+                "img": "12-0011",
+                "code": "CNT8-1000",
+                "description": "Grampa de sujeción de Aluminio anodizado para manguera neón - Seccion 8 x 16mm - Largo de 1 mts",
+                "lm": "-",
+                "w/m": "-",
+                "prot": "-",
+                "led/m": "-",
+                "ct": "-",
+                "pack": "10",
+                "price": "5,80"
+            },
+            {
+                "img": "12-0012",
+                "code": "CNTCOB-1000",
+                "description": "Grampa de sujeción de Aluminio anodizado para manguera neón COB - Seccion 10 x 7 mm - Largo de 1 mts",
+                "lm": "-",
+                "w/m": "-",
+                "prot": "-",
+                "led/m": "-",
+                "ct": "6000ºK",
+                "pack": "10",
+                "price": "5,80"
+            }
+        ]
+    }
+]

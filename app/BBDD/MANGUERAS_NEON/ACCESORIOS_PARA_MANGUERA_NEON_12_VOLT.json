@@ -1,0 +1,35 @@
+[
+    {
+        "img": "10007",
+        "objects": [
+            {
+                "img": "17-001",
+                "code": "CNT-80",
+                "description": "Tapón ciego para manguera led de sección 6 x 12 y 5 x11 mm",
+                "pack": "10",
+                "price": "0,40"
+            },
+            {
+                "img": "17-002",
+                "code": "CNT-81",
+                "description": "Tapón con salida de cable para manguera led de sección 6 x 12 y 5 x 11 mm",
+                "pack": "10",
+                "price": "0,40"
+            },
+            {
+                "img": "17-003",
+                "code": "CNT-93",
+                "description": "Grampa de sujeción de Aluminio anodizado para manguera neón - Sección 6 x 12  y 5 x 11mm - Largo de 4.5 cm",
+                "pack": "10",
+                "price": "0,70"
+            },
+            {
+                "img": "17-004",
+                "code": "CNT6-1000",
+                "description": "Grampa de sujeción de Aluminio anodizado para manguera neón -  Sección 6 x 12  y  5 x 11 mm - Largo de 1 mts",
+                "pack": "10",
+                "price": "5,80"
+            }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "img": "201001",
+        "objects": [
+            {
+                "img": "201-001",
+                "code": "FG3M-24V",
+                "description": "Fuente genérica switching metálica - 3 Amp - Salida 24 volt  /  Entrada 220 volt - IP20",
+                "measures": "16 x 9.7 x 4.2",
+                "amp": "3",
+                "watt": "72",
+                "out": "Bornera",
+                "pack": "2",
+                "price": "33,00"
+            },
+            {
+                "img": "201-002",
+                "code": "FGM5-24V",
+                "description": "Fuente genérica switching metálica - 5 Amp - Salida 24 volt  /  Entrada 220 volt - IP20",
+                "measures": "19.8 x 9.7 x 4.4",
+                "amp": "5",
+                "watt": "120",
+                "out": "Bornera",
+                "pack": "2",
+                "price": "50,00"
+            },
+            {
+                "img": "201-003",
+                "code": "FG10M-24V",
+                "description": "Fuente genérica switching metálica - 10 Amp - Salida 24 volt  /  Entrada 220 volt - IP20",
+                "measures": "19.8 x 10.5 x 6",
+                "amp": "10",
+                "watt": "240",
+                "out": "Bornera",
+                "pack": "2",
+                "price": "87,00"
+            },
+            {
+                "img": "201-004",
+                "code": "FG20M-24V",
+                "description": "Fuente genérica switching metálica - 20 Amp - Salida 24 volt  /  Entrada 220 volt - IP20",
+                "measures": "21.5 x 10.3 x 6",
+                "amp": "20",
+                "watt": "480",
+                "out": "Bornera",
+                "pack": "1",
+                "price": "95,00"
+            }
+        ]
+    }
+]

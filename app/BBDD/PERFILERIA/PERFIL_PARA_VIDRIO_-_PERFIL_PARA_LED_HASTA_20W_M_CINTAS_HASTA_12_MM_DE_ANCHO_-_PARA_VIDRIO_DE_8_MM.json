@@ -1,0 +1,27 @@
+[
+  {
+    "img": "200005",
+    "objects": [
+      {
+        "img": "205-001",
+        "code": "PV-AT-3",
+        "description": "Perfil para vidrio con punteras y grampas de sujeción - Aluminio anodizado - Largo 3 mts  /  Protector Transparente - Perfil PV",
+        "pun-gram": "6 Punteras",
+        "material": "Aluminio anodizado",
+        "dfsor": "Transp",
+        "pack": "4",
+        "price": "50,00"
+      },
+      {
+        "img": "205-002",
+        "code": "PV-AO-3",
+        "description": "Perfil para vidrio con punteras y grampas de sujeción - Aluminio anodizado - Largo 3 mts  /  Protector Opal - Perfil PV",
+        "pun-gram": "3 Punteras izq., 3 Punteras der.",
+        "material": "Aluminio anodizado",
+        "dfsor": "Opal",
+        "pack": "4",
+        "price": "50,00"
+      }
+    ]
+  }
+]

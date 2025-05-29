@@ -1,0 +1,147 @@
+[
+    {
+        "img": "0000012",
+        "objects": [
+            {
+                "img": "012-001",
+                "code": "SEC-RGB-6A-24-IR",
+                "description": "Controladora RGB - 5 Amp recomendable - 2 Amp por canal - 24 teclas - Infrarrojo - 12/24 volt -  Alcance máximo 5mts",
+                "amp": "5",
+                "signal": "INFRARROJO",
+                "range": "5 Metros",
+                "pack": "5",
+                "price": "9,00"
+            },
+            {
+                "img": "012-002",
+                "code": "SEC-RGB-6A-RF",
+                "description": "Controladora RGB - 5 Amp recomendable  - 2 Amp por canal - Radio frecuencia - 12/24 volt -   Alcance máximo máximo 10 mts",
+                "amp": "5",
+                "signal": "RADIO-FRECUENCIA",
+                "range": "10 Metros",
+                "pack": "5",
+                "price": "14,00"
+            },
+            {
+                "img": "012-003",
+                "code": "SEC-RGB-18A-RF",
+                "description": "Controladora RGB/RGBW - 15 Amp recomendable - 6 Amp por canal - Radiofrecuencia - 12/24 volt -   Alcance máximo máximo 20 mts - Control táctild",
+                "amp": "15",
+                "signal": "RADIO-FRECUENCIA",
+                "range": "20 Metros",
+                "pack": "1",
+                "price": "57,00"
+            },
+            {
+                "img": "012-004",
+                "code": "SEC-RGB-30A-RF",
+                "description": "Controladora RGB - 30 Amp - 10 Amp por canal - Radiofrecuencia - Alcance máximo máximo 20 mts",
+                "amp": "30",
+                "signal": "RADIO-FRECUENCIA",
+                "range": "20 Metros",
+                "pack": "1",
+                "price": "80,00"
+            },
+            {
+                "img": "012-005",
+                "code": "SEC-RGB-BTH",
+                "description": "Controladora RGB - 5 Amp recomendable - 2 Amp por canal - Bluetooth - 12/24 volt -  Alcance máximo 15 mts",
+                "amp": "5",
+                "signal": "BLUETOOTH",
+                "range": "15 Metros",
+                "pack": "1",
+                "price": "13,14"
+            },
+            {
+                "img": "012-006",
+                "code": "SEC-RGB-WIFI",
+                "description": "Controladora RGB - 5 Amp recomendable - Wifi - 12/24 volt",
+                "amp": "5",
+                "signal": "WIFI",
+                "range": "DELIMITADO POR LA RED",
+                "pack": "1",
+                "price": "51,00"
+            },
+            {
+                "img": "012-007",
+                "code": "SEC-RGB-WIFI+IR",
+                "description": "Controladora RGB - 10 Amp recomendable - 4 Amp por canal - Wifi + Infrarrojo - 12/24 volt -  Alcance máximo 15 mts",
+                "amp": "10",
+                "signal": "WIFI + INFRARROJO",
+                "range": "DELIMITADO POR LA RED",
+                "pack": "1",
+                "price": "55,00"
+            },
+            {
+                "img": "012-008",
+                "code": "SEC-RGBW-WIFI",
+                "description": "Controladora RGB/RGBW - 10 Amp recomendable - Wifi - 12/24 volt",
+                "amp": "10",
+                "signal": "WIFI",
+                "range": "DELIMITADO POR LA RED",
+                "pack": "1",
+                "price": "33,00"
+            },
+            {
+                "img": "012-009",
+                "code": "SEC-RGB-PRO",
+                "description": "Controladora RGB - 12 Amp - 6 Amp por canal - Wifi + RF - 12/24 volt",
+                "amp": "0,16",
+                "signal": "WIFI + RADIO-FRECUENCIA",
+                "range": "DELIMITADO POR LA RED",
+                "pack": "1",
+                "price": "130,00"
+            },
+            {
+                "img": "012-0010",
+                "code": "R-1",
+                "description": "Control remoto RGB + CCT - Radiofrecuencia 2.4 GHz - Requiere SEC-RGB-PRO -  Alcance máximo 30 mts",
+                "amp": "-",
+                "signal": "RADIO-FRECUENCIA",
+                "range": "30 Metros",
+                "pack": "1",
+                "price": "93,00"
+            },
+            {
+                "img": "012-0011",
+                "code": "PV-300",
+                "description": "Panel táctil RGB/RGBW de 4 zonas- Radiofrecuencia - Requiere controlador SEC-RGB-PRO o SEC-5EN1 - Alcance máximo 30 mts",
+                "amp": "-",
+                "signal": "RADIO-FRECUENCIA",
+                "range": "30 Metros",
+                "pack": "1",
+                "price": "140,00"
+            },
+            {
+                "img": "012-0012",
+                "code": "R-2",
+                "description": "Control remoto RGB + CCT de 4 zonas - Radiofrecuencia 2.4 GHz - Requiere controlador SEC-RGB-PRO o SEC-5EN1 - Alcance máximo 30 mts",
+                "amp": "-",
+                "signal": "RADIO-FRECUENCIA",
+                "range": "30 Metros",
+                "pack": "1",
+                "price": "85,00"
+            },
+            {
+                "img": "012-0013",
+                "code": "SEC - 5EN1",
+                "description": "Controladora RGB/RGBW - 15 Amp - 6 Amp por canal - Wifi + RF - 12/24 volt - 5 en 1 apta para cinta monoctromática, RGB y RGBW - Alcance máximo 30 mts",
+                "amp": "15",
+                "signal": "WIFI + RADIO-FRECUENCIA",
+                "range": "DELIMITADO POR LA RED",
+                "pack": "1",
+                "price": "160,00"
+            },
+            {
+                "img": "012-0014",
+                "code": "SEC - RGB - DMX5C",
+                "description": "Controladora DMX - 5 Canales - 20 Amp - 4 Amp por canal - 12/24 volt",
+                "amp": "20",
+                "signal": "DMX",
+                "range": "CABLEADO",
+                "pack": "1",
+                "price": "120,00"
+            }
+        ]
+    }
+]

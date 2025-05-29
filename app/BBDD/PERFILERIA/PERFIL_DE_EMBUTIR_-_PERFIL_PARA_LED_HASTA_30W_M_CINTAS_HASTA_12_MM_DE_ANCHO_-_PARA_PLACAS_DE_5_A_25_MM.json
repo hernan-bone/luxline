@@ -1,0 +1,37 @@
+[
+  {
+    "img": "200006",
+    "objects": [
+      {
+        "img": "206-001",
+        "code": "PE-AO-3",
+        "description": "Perfil de embutir con punteras y grampas de sujeción - Aluminio anodizado - Largo 3 mts  /  Protector Opal - Perfil PE",
+        "pun-rsort": "6 Punteras, 12 Resortes",
+        "material": "Aluminio anodizado",
+        "dfsor": "Opal",
+        "pack": "4",
+        "price": "76,00"
+      },
+      {
+        "img": "206-002",
+        "code": "PE-NO-3",
+        "description": "Perfil de embutirr con punteras y grampas de sujeción - Negro - Largo 3 mts  /  Protector Opal - Perfil PE",
+        "pun-rsort": "6 Punteras, 12 Resortes",
+        "material": "Aluminio anodizado",
+        "dfsor": "Opal",
+        "pack": "4",
+        "price": "80,00"
+      },
+      {
+        "img": "206-003",
+        "code": "PE-BO-3",
+        "description": "Perfil de embutir con punteras y grampas de sujeción - Aluminio pintado con epoxi blanco - Largo 3 mts  /  Protector Opal - Perfil PE",
+        "pun-rsort": "6 Punteras, 12 Resortes",
+        "material": "Aluminio anodizado",
+        "dfsor": "Opal",
+        "pack": "4",
+        "price": "80,00"
+      }
+    ]
+  }
+]

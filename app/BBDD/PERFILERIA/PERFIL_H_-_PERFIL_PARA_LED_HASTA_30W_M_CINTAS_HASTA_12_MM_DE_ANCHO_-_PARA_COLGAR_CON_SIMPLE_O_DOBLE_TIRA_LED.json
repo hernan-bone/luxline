@@ -1,0 +1,37 @@
+[
+  {
+    "img": "200007",
+    "objects": [
+      {
+        "img": "207-001",
+        "code": "PH-AT-3",
+        "description": "Perfil para sujeción con grampas ocultas o colgantes - Aluminio anodizado - Largo 3 mts / Protector Transparente - Perfil PH",
+        "pun-gram": "6 Punteras, 6 Grampas",
+        "material": "Aluminio anodizado",
+        "dfsor": "Transp",
+        "pack": "4",
+        "price": "67,00"
+      },
+      {
+        "img": "207-002",
+        "code": "PH-AO-3",
+        "description": "Perfil para sujeción con grampas ocultas o colgantes - Aluminio anodizado - Largo 3 mts / Protector Opal - Perfil PH",
+        "pun-gram": "6 Punteras, 6 Grampas",
+        "material": "Aluminio anodizado",
+        "dfsor": "Opal",
+        "pack": "4",
+        "price": "67,00"
+      },
+      {
+        "img": "207-003",
+        "code": "PH-NO-3",
+        "description": "Perfil para sujeción con grampas ocultas o colgantes - Negro - Largo 3 mts / Protector Opal - Perfil PH",
+        "pun-gram": "6 Punteras, 6 Grampas",
+        "material": "Aluminio anodizado",
+        "dfsor": "Opal",
+        "pack": "4",
+        "price": "71,00"
+      }
+    ]
+  }
+]

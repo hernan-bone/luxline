@@ -1,0 +1,27 @@
+[
+    {
+        "img": "0000013",
+        "objects": [
+            {
+                "img": "013-001",
+                "code": "PSEC-RGB-WIFI",
+                "description": "Controladora para tira led pixel RGB - Wifi - App audiorítmica",
+                "amp": "4",
+                "signal": "WIFI + RADIO-FRECUENCIA",
+                "range": "DELIMITADO POR LA RED + RF DE 7 METROS",
+                "pack": "1",
+                "price": "67,00"
+            },
+            {
+                "img": "013-002",
+                "code": "PSEC-RGB-6A-RF",
+                "description": "Controladora para tira led pixel RGB - Radiofrecuencia - 5/24 volt",
+                "amp": "5",
+                "signal": "RADIO-FRECUENCIA",
+                "range": "7 Metros",
+                "pack": "1",
+                "price": "16,00"
+            }
+        ]
+    }
+]

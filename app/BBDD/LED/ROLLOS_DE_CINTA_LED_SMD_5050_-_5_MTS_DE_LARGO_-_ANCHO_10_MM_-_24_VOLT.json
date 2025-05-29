@@ -1,0 +1,91 @@
+[
+    {
+        "img": "000005",
+        "objects": [
+            {
+                "img": "05-001",
+                "code": "5050-BFE-24",
+                "description": "Rollo cinta led 5050 Bco. Frio Exterior - 24 volt - 1400 Lm/m - 14.4 w/m - 60 led/m - IP65 - Largo de 5 mts",
+                "lm": "1400",
+                "w/m": "14,4",
+                "prot": "IP65",
+                "led/m": "60",
+                "ct": "6000ºK",
+                "pack": "2",
+                "price": "39,00"
+            },
+            {
+                "img": "05-002",
+                "code": "5050-BCE-24",
+                "description": "Rollo cinta led 5050 Bco. Cálido Exterior - 24 volt - 1400 Lm/m - 14.4 w/m - 60 led/m - IP65 - Largo de 5 mts",
+                "lm": "1400",
+                "w/m": "14,4",
+                "prot": "IP65",
+                "led/m": "60",
+                "ct": "3000ºK",
+                "pack": "2",
+                "price": "39,00"
+            },
+            {
+                "img": "05-003",
+                "code": "5050-AZE-24",
+                "description": "Rollo cinta led 5050 Azul Exterior - 24 volt - 1400 Lm/m - 14.4 w/m - 60 led/m - IP65 - Largo de 5 mts",
+                "lm": "1400",
+                "w/m": "14,4",
+                "prot": "IP65",
+                "led/m": "60",
+                "ct": "-",
+                "pack": "2",
+                "price": "39,00"
+            },
+            {
+                "img": "05-004",
+                "code": "5050-BFI-24",
+                "description": "Rollo cinta led 5050 Bco. Frio Interior - 24 volt - 1400 Lm/m - 14.4 w/m - 60 led/m - IP20 - Largo de 5 mts",
+                "lm": "1400",
+                "w/m": "14,4",
+                "prot": "IP20",
+                "led/m": "60",
+                "ct": "-",
+                "pack": "2",
+                "price": "32,00"
+            },
+            {
+                "img": "05-005",
+                "code": "5050-BCI-24",
+                "description": "Rollo cinta led 5050 Bco. Cálido Interior - 24 volt - 1400 Lm/m - 14.4 w/m - 60 led/m - IP20 - Largo de 5 mts",
+                "lm": "1400",
+                "w/m": "14,4",
+                "prot": "IP20",
+                "led/m": "60",
+                "ct": "-",
+                "pack": "2",
+                "price": "32,00"
+            },
+            {
+                "img": "05-006",
+                "code": "5050-AZI-24",
+                "description": "Rollo cinta led 5050 Azul Interior - 24 volt - 1400 Lm/m - 14.4 w/m - 60 led/m - IP20 - Largo de 5 mts",
+                "lm": "1400",
+                "w/m": "14,4",
+                "prot": "IP20",
+                "led/m": "60",
+                "ct": "-",
+                "pack": "2",
+                "price": "32,00"
+            },
+            {
+                "img": "05-007",
+                "code": "5050-UVI-24",
+                "description": "Rollo cinta led 5050 Ultra Violeta Interior - 24 volt - 1400 Lm/m - 14.4 w/m - 60 led/m - IP20 - Largo de 5 mts",
+                "lm": "1400",
+                "w/m": "14,4",
+                "prot": "IP20",
+                "led/m": "60",
+                "ct": "-",
+                "pack": "2",
+                "price": "120,00"
+            }
+        ]
+    }
+]

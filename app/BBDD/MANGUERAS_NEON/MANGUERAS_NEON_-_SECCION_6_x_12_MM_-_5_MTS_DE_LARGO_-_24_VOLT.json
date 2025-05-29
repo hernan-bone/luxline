@@ -1,0 +1,103 @@
+[
+    {
+        "img": "10008",
+        "objects": [
+            {
+                "img": "18-001",
+                "code": "MN24-BF",
+                "description": "Manguera neón con led 2835 - Bco. Frio - 24 volt  - 1100 Lm/m - 14.4 w/m - 120 led/m - Sección 6 x 12 mm - Largo de 5 mts",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "6000ºK",
+                "pack": "5 Metros",
+                "price": "40,00"
+            },
+            {
+                "img": "18-002",
+                "code": "MN24-BC",
+                "description": "Manguera neón con led 2835 - Bco. Cálido - 24 volt  - 1100 Lm/m - 14.4 w/m - 120 led/m - Sección 6 x 12 mm  - Largo de 5 mts",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "3000ºK",
+                "pack": "5 Metros",
+                "price": "40,00"
+            },
+            {
+                "img": "18-003",
+                "code": "MN24-AZ",
+                "description": "Manguera neón con led 2835 - Azul - 24 volt  - 1100 Lm/m - 14.4 w/m - 120 led/m - Sección 6 x 12 mm  - Largo de 5 mts",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "-",
+                "pack": "5 Metros",
+                "price": "40,00"
+            },
+            {
+                "img": "18-004",
+                "code": "MN24-RO",
+                "description": "Manguera neón con led 2835 - Rojo - 24 volt  - 1100 Lm/m - 14.4 w/m - 120 led/m - Sección 6 x 12 mm  - Largo de 5 mts",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "-",
+                "pack": "5 Metros",
+                "price": "40,00"
+            },
+            {
+                "img": "18-005",
+                "code": "MN24-VE",
+                "description": "Manguera neón con led 2835 - Verde - 24 volt  - 1100 Lm/m - 14.4 w/m - 120 led/m - Sección 6 x 12 mm  - Largo de 5 mts",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "-",
+                "pack": "5 Metros",
+                "price": "40,00"
+            },
+            {
+                "img": "18-006",
+                "code": "MN24-RS",
+                "description": "Manguera neón con led 2835 - Rosa - 24 volt  - 1100 Lm/m - 14.4 w/m - 120 led/m - Sección 6 x 12 mm  - Largo de 5 mts",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "-",
+                "pack": "5 Metros",
+                "price": "40,00"
+            },
+            {
+                "img": "18-007",
+                "code": "MN24-NA",
+                "description": "Manguera neón con led 2835 - Naranja - 24 volt  - 1100 Lm/m - 14.4 w/m - 120 led/m - Sección 6 x 12 mm  - Largo de 5 mts",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "-",
+                "pack": "5 Metros",
+                "price": "40,00"
+            },
+            {
+                "img": "18-008",
+                "code": "MN24-AM",
+                "description": "Manguera neón con led 2835 - Amarillo - 24 volt  - 1100 Lm/m - 14.4 w/m - 120 led/m - Sección 6 x 12 mm  - Largo de 5 mts",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "-",
+                "pack": "5 Metros",
+                "price": "40,00"
+            }
+        ]
+    }
+]

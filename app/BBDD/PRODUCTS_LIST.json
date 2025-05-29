@@ -1,0 +1,376 @@
+[
+    {
+        "LED": {
+            "name": "Led",
+            "route": "/",
+            "content": [
+                "Rollos leds",
+                "Kits RGB Y lámparas",
+                "Módulos led 12V (5050/5630/COB/COB CL/6012)",
+                "Pastillas led 220V",
+                "Controladoras"
+            ],
+            "list_of_types": {
+                "Rollos": {
+                    "name": "Rollos leds",
+                    "route": "/",
+                    "content": [
+                        "ROLLOS DE CINTA LED SMD 2835 - 10 MTS DE LARGO - 220 VOLT DIRECTO",
+                        "ROLLOS DE CINTA PIXEL / KIT DE CINTA LED CON CONTROLADORA",
+                        "ROLLOS DE CINTA LED SMD 2835 - 5 MTS DE LARGO - 12 VOLT",
+                        "ROLLOS DE CINTA LED SMD 5050 - 5 MTS DE LARGO - ANCHO 10 MM - 12 VOLT",
+                        "ROLLOS DE CINTA LED SMD 5050 - 5 MTS DE LARGO - ANCHO 10 MM - 24 VOLT",
+                        "ROLLOS DE CINTA LED COB - 5 MTS DE LARGO - ANCHO 8 MM - 12 VOLT",
+                        "ROLLOS DE CINTA LED COB - 10 MTS DE LARGO - ANCHO 8 MM - 24 VOLT",
+                        "ROLLOS DE CINTA LED COB - 5 MTS DE LARGO - ANCHO 10 MM - 24 VOLT"
+                    ],
+                    "list_of_items": {
+                        "ROLLOS DE CINTA LED SMD 2835 - 10 MTS DE LARGO - 220 VOLT DIRECTO": {
+                            "name": "ROLLOS DE CINTA LED SMD 2835 - 10 MTS DE LARGO - 220 VOLT DIRECTO",
+                            "route": "/",
+                            "content": {}
+                        },
+                        "ROLLOS DE CINTA PIXEL / KIT DE CINTA LED CON CONTROLADORA": {
+                            "name": "ROLLOS DE CINTA PIXEL / KIT DE CINTA LED CON CONTROLADORA",
+                            "route": "/",
+                            "content": {}
+                        },
+                        "ROLLOS DE CINTA LED SMD 2835 - 5 MTS DE LARGO - 12 VOLT": {
+                            "name": "ROLLOS DE CINTA LED SMD 2835 - 5 MTS DE LARGO - 12 VOLT",
+                            "route": "/",
+                            "content": {}
+                        },
+                        "ROLLOS DE CINTA LED SMD 5050 - 5 MTS DE LARGO - ANCHO 10 MM - 24 VOLT": {
+                            "name": "ROLLOS DE CINTA LED SMD 5050 - 5 MTS DE LARGO - ANCHO 10 MM - 24 VOLT",
+                            "route": "/",
+                            "content": {}
+                        },
+                        "ROLLOS DE CINTA LED COB - 5 MTS DE LARGO - ANCHO 8 MM - 12 VOLT": {
+                            "name": "ROLLOS DE CINTA LED COB - 5 MTS DE LARGO - ANCHO 8 MM - 12 VOLT",
+                            "route": "/",
+                            "content": {}
+                        },
+                        "ROLLOS DE CINTA LED COB - 10 MTS DE LARGO - ANCHO 8 MM - 24 VOLT": {
+                            "name": "ROLLOS DE CINTA LED COB - 10 MTS DE LARGO - ANCHO 8 MM - 24 VOLT",
+                            "route": "/",
+                            "content": {}
+                        },
+                        "ROLLOS DE CINTA LED COB - 5 MTS DE LARGO - ANCHO 10 MM - 24 VOLT": {
+                            "name": "ROLLOS DE CINTA LED COB - 5 MTS DE LARGO - ANCHO 10 MM - 24 VOLT",
+                            "route": "/",
+                            "content": {}
+                        }
+                    }
+                },
+                "Kits": {
+                    "name": "Kits RGB Y lámparas",
+                    "route": "/",
+                    "content": [],
+                    "list_of_items": {}
+                },
+                "Modulos": {
+                    "name": "Módulos led 12V (5050/5630/COB/COB CL/6012)",
+                    "route": "/",
+                    "content": [],
+                    "list_of_items": {}
+                },
+                "Pastillas": {
+                    "name": "Pastillas led 220V",
+                    "route": "/",
+                    "content": [],
+                    "list_of_items": {}
+                },
+                "Controladoras": {
+                    "name": "Controladoras",
+                    "route": "/",
+                    "content": [
+                        "CONTROLADORAS - RGB - RF / BTH / WIFI / IR",
+                        "CONTROLADORAS - RGB - PIXEL",
+                        "CONTROLADORAS - MONOCROMÁTICOS - 5 /12 / 24 VOLT",
+                        "CONECTORES VARIOS - ACCESORIOS",
+                        "MONOCROMÁTICOS - 5 / 12 / 24 VOLT"
+                    ],
+                    "list_of_items": {
+                        "CONTROLADORAS - RGB - RF / BTH / WIFI / IR": {
+                            "name": "CONTROLADORAS - RGB - RF / BTH / WIFI / IR",
+                            "route": "/",
+                            "content": {}
+                        },
+                        "CONTROLADORAS - RGB - PIXEL": {
+                            "name": "CONTROLADORAS - RGB - PIXEL",
+                            "route": "/",
+                            "content": {}
+                        },
+                        "CONTROLADORAS - MONOCROMÁTICOS - 5 /12 / 24 VOLT": {
+                            "name": "CONTROLADORAS - MONOCROMÁTICOS - 5 /12 / 24 VOLT",
+                            "route": "/",
+                            "content": {}
+                        },
+                        "CONECTORES VARIOS - ACCESORIOS": {
+                            "name": "CONECTORES VARIOS - ACCESORIOS",
+                            "route": "/",
+                            "content": {}
+                        },
+                        "MONOCROMÁTICOS - 5 / 12 / 24 VOLT": {
+                            "name": "MONOCROMÁTICOS - 5 / 12 / 24 VOLT",
+                            "route": "/",
+                            "content": {}
+                        }
+                    }
+                },
+                "Amplificadoras": {
+                    "name": "Amplificadoras",
+                    "route": "/",
+                    "content": [
+                        "MONOCROMÁTICOS - 5 / 12 / 24 VOLT"
+                    ],
+                    "list_of_items": {
+                        "MONOCROMÁTICOS - 5 / 12 / 24 VOLT": {
+                            "name": "MONOCROMÁTICOS - 5 / 12 / 24 VOLT",
+                            "route": "/",
+                            "content": {}
+                        }
+                    }
+                }
+            }
+        },
+        "MANGUERAS_DE_NEON": {
+            "name": "Mangueras de neón",
+            "route": "/",
+            "content": [
+                "MANGUERAS NEÓN - SECCIÓN 8 x 16 MM - 100 MTS DE LARGO - 220 VOLT",
+                "ACCESORIOS PARA MANGUERA NEÓN 220 VOLT",
+                "MANGUERAS NEÓN - SECCIÓN 6 x 12 MM - 5 MTS DE LARGO -  12 VOLT",
+                "MANGUERAS NEÓN - SECCIÓN 5 x 11 MM - 5 MTS DE LARGO -  12 VOLT",
+                "KITS MANGUERA NEÓN",
+                "MANGUERAS NEÓN - SECCIÓN 6 x 12 MM - 50 MTS DE LARGO -  12 VOLT",
+                "MANGUERAS NEÓN - SECCIÓN 5 x 11 MM - 50 MTS DE LARGO -  12 VOLT",
+                "ACCESORIOS PARA MANGUERA NEÓN 12 VOLT",
+                "MANGUERAS NEÓN - SECCIÓN 6 x 12 MM - 5 MTS DE LARGO -  24 VOLT",
+                "MANGUERAS NEÓN - SECCIÓN 6 x 12 MM - 50 MTS DE LARGO -  24 VOLT",
+                "MANGUERAS NEÓN - SECCIÓN CUADRADA - 50 MTS DE LARGO -  24 VOLT"
+            ],
+            "list_of_types": {
+                "MANGUERAS NEÓN - SECCIÓN 8 x 16 MM - 100 MTS DE LARGO - 220 VOLT": {
+                    "name": "MANGUERAS NEÓN - SECCIÓN 8 x 16 MM - 100 MTS DE LARGO - 220 VOLT",
+                    "route": "/",
+                    "content": {}
+                },
+                "ACCESORIOS PARA MANGUERA NEÓN 220 VOLT": {
+                    "name": "ACCESORIOS PARA MANGUERA NEÓN 220 VOLT",
+                    "route": "/",
+                    "content": {}
+                },
+                "MANGUERAS NEÓN - SECCIÓN 6 x 12 MM - 5 MTS DE LARGO -  12 VOLT": {
+                    "name": "MANGUERAS NEÓN - SECCIÓN 6 x 12 MM - 5 MTS DE LARGO -  12 VOLT",
+                    "route": "/",
+                    "content": {}
+                },
+                "MANGUERAS NEÓN - SECCIÓN 5 x 11 MM - 5 MTS DE LARGO -  12 VOLT": {
+                    "name": "MANGUERAS NEÓN - SECCIÓN 5 x 11 MM - 5 MTS DE LARGO -  12 VOLT",
+                    "route": "/",
+                    "content": {}
+                },
+                "KITS MANGUERA NEÓN": {
+                    "name": "KITS MANGUERA NEÓN",
+                    "route": "/",
+                    "content": {}
+                },
+                "MANGUERAS NEÓN - SECCIÓN 6 x 12 MM - 50 MTS DE LARGO -  12 VOLT": {
+                    "name": "MANGUERAS NEÓN - SECCIÓN 6 x 12 MM - 50 MTS DE LARGO -  12 VOLT",
+                    "route": "/",
+                    "content": {}
+                },
+                "MANGUERAS NEÓN - SECCIÓN 5 x 11 MM - 50 MTS DE LARGO -  12 VOLT": {
+                    "name": "MANGUERAS NEÓN - SECCIÓN 5 x 11 MM - 50 MTS DE LARGO -  12 VOLT",
+                    "route": "/",
+                    "content": {}
+                },
+                "ACCESORIOS PARA MANGUERA NEÓN 12 VOLT": {
+                    "name": "ACCESORIOS PARA MANGUERA NEÓN 12 VOLT",
+                    "route": "/",
+                    "content": {}
+                },
+                "MANGUERAS NEÓN - SECCIÓN 6 x 12 MM - 5 MTS DE LARGO -  24 VOLT": {
+                    "name": "MANGUERAS NEÓN - SECCIÓN 6 x 12 MM - 5 MTS DE LARGO -  24 VOLT",
+                    "route": "/",
+                    "content": {}
+                },
+                "MANGUERAS NEÓN - SECCIÓN 6 x 12 MM - 50 MTS DE LARGO -  24 VOLT": {
+                    "name": "MANGUERAS NEÓN - SECCIÓN 6 x 12 MM - 50 MTS DE LARGO -  24 VOLT",
+                    "route": "/",
+                    "content": {}
+                },
+                "MANGUERAS NEÓN - SECCIÓN CUADRADA - 50 MTS DE LARGO -  24 VOLT": {
+                    "name": "MANGUERAS NEÓN - SECCIÓN CUADRADA - 50 MTS DE LARGO -  24 VOLT",
+                    "route": "/",
+                    "content": {}
+                }
+            }
+        },
+        "FUENTES": {
+            "name": "Fuentes",
+            "route": "/",
+            "content": [
+                "FUENTES METÁLICAS - 12 VOLT",
+                "FUENTES METÁLICAS - 24 VOLT",
+                "FUENTES METÁLICAS SLIM - 12 VOLT",
+                "FUENTES METÁLICAS ULTRA SLIM - 12 VOLT",
+                "FUENTES METÁLICAS ULTRA SLIM - 24 VOLT",
+                "FUENTES PLÁSTICAS - 12 VOLT",
+                "FUENTES PLÁSTICAS - 12 VOLT - SIN CAJA"
+            ],
+            "list_of_types": {
+                "FUENTES METÁLICAS - 12 VOLT": {
+                    "name": "FUENTES METÁLICAS - 12 VOLT",
+                    "route": "/",
+                    "content": {}
+                },
+                "FUENTES METÁLICAS - 24 VOLT": {
+                    "name": "FUENTES METÁLICAS - 24 VOLT",
+                    "route": "/",
+                    "content": {}
+                },
+                "FUENTES METÁLICAS SLIM - 12 VOLT": {
+                    "name": "FUENTES METÁLICAS SLIM - 12 VOLT",
+                    "route": "/",
+                    "content": {}
+                },
+                "FUENTES METÁLICAS ULTRA SLIM - 12 VOLT": {
+                    "name": "FUENTES METÁLICAS ULTRA SLIM - 12 VOLT",
+                    "route": "/",
+                    "content": {}
+                },
+                "FUENTES METÁLICAS ULTRA SLIM - 24 VOLT": {
+                    "name": "FUENTES METÁLICAS ULTRA SLIM - 24 VOLT",
+                    "route": "/",
+                    "content": {}
+                },
+                "FUENTES PLÁSTICAS - 12 VOLT": {
+                    "name": "FUENTES PLÁSTICAS - 12 VOLT",
+                    "route": "/",
+                    "content": {}
+                },
+                "FUENTES PLÁSTICAS - 12 VOLT - SIN CAJA": {
+                    "name": "FUENTES PLÁSTICAS - 12 VOLT - SIN CAJA",
+                    "route": "/",
+                    "content": {}
+                }
+            }
+        },
+        "PERFILERIA": {
+            "name": "Perfileria",
+            "route": "/",
+            "content": [
+                "PERFIL DE ALUMINIO DE OBRA",
+                "PERFIL PP02 - PERFIL PARA LED HASTA 20W/M / CINTAS HASTA 8 MM DE ANCHO",
+                "PERFIL PP03 - PERFIL PARA LED HASTA 20W/M / CINTAS HASTA 8 MM DE ANCHO",
+                "PERFIL ÁNGULO - PERFIL PARA LED HASTA 20W/M / CINTAS HASTA 10 MM DE ANCHO - ILUMINACION A 45°",
+                "PERFIL PARA VIDRIO - PERFIL PARA LED HASTA 20W/M / CINTAS HASTA 12 MM DE ANCHO - PARA VIDRIO DE 8 MM",
+                "PERFIL DE EMBUTIR - PERFIL PARA LED HASTA 30W/M / CINTAS HASTA 12 MM DE ANCHO - PARA PLACAS DE 5 A 25 MM",
+                "PERFIL H - PERFIL PARA LED HASTA 30W/M / CINTAS HASTA 12 MM DE ANCHO - PARA COLGAR CON SIMPLE O DOBLE TIRA LED",
+                "PERFIL PERCHERO Y SOPORTES",
+                "PERFIL GARGANTA - PERFIL PARA LED HASTA 20W/M / CINTAS HASTA 12 MM DE ANCHO - PARA PLACAS DE 5 A 25 MM",
+                "PERFIL DE EMBUTIR - PERFIL PARA LED HASTA 50W/M / CINTAS HASTA 50 MM DE ANCHO - PARA PLACAS DE 5 A 25 MM",
+                "ACCESORIOS PARA PERFILERIA - GRAMPAS Y PUNTERAS",
+                "DIFUSORES PARA PERFILERIA",
+                "LISTONES ARMADOS - PERFIL PP01 - 12 VOLT",
+                "LISTONES ARMADOS PLÁSTICOS - LED COB - 220 VOLT",
+                "LISTONES ARMADOS PLÁSTICOS - LED 5630 - 220 VOLT"
+            ],
+            "list_of_types": {
+                "PERFIL DE ALUMINIO DE OBRA": {
+                    "name": "PERFIL DE ALUMINIO DE OBRA",
+                    "route": "/",
+                    "content": {}
+                },
+                "PERFIL PP02 - PERFIL PARA LED HASTA 20W/M / CINTAS HASTA 8 MM DE ANCHO": {
+                    "name": "PERFIL PP02 - PERFIL PARA LED HASTA 20W/M / CINTAS HASTA 8 MM DE ANCHO",
+                    "route": "/",
+                    "content": {}
+                },
+                "PERFIL PP03 - PERFIL PARA LED HASTA 20W/M / CINTAS HASTA 8 MM DE ANCHO": {
+                    "name": "PERFIL PP03 - PERFIL PARA LED HASTA 20W/M / CINTAS HASTA 8 MM DE ANCHO",
+                    "route": "/",
+                    "content": {}
+                },
+                "PERFIL ÁNGULO - PERFIL PARA LED HASTA 20W/M / CINTAS HASTA 10 MM DE ANCHO - ILUMINACION A 45°": {
+                    "name": "PERFIL ÁNGULO - PERFIL PARA LED HASTA 20W/M / CINTAS HASTA 10 MM DE ANCHO - ILUMINACION A 45°",
+                    "route": "/",
+                    "content": {}
+                },
+                "PERFIL PARA VIDRIO - PERFIL PARA LED HASTA 20W/M / CINTAS HASTA 12 MM DE ANCHO - PARA VIDRIO DE 8 MM": {
+                    "name": "PERFIL PARA VIDRIO - PERFIL PARA LED HASTA 20W/M / CINTAS HASTA 12 MM DE ANCHO - PARA VIDRIO DE 8 MM",
+                    "route": "/",
+                    "content": {}
+                },
+                "PERFIL DE EMBUTIR - PERFIL PARA LED HASTA 30W/M / CINTAS HASTA 12 MM DE ANCHO - PARA PLACAS DE 5 A 25 MM": {
+                    "name": "PERFIL DE EMBUTIR - PERFIL PARA LED HASTA 30W/M / CINTAS HASTA 12 MM DE ANCHO - PARA PLACAS DE 5 A 25 MM",
+                    "route": "/",
+                    "content": {}
+                },
+                "PERFIL H - PERFIL PARA LED HASTA 30W/M / CINTAS HASTA 12 MM DE ANCHO - PARA COLGAR CON SIMPLE O DOBLE TIRA LED": {
+                    "name": "PERFIL H - PERFIL PARA LED HASTA 30W/M / CINTAS HASTA 12 MM DE ANCHO - PARA COLGAR CON SIMPLE O DOBLE TIRA LED",
+                    "route": "/",
+                    "content": {}
+                },
+                "PERFIL PERCHERO Y SOPORTES": {
+                    "name": "PERFIL PERCHERO Y SOPORTES",
+                    "route": "/",
+                    "content": {}
+                },
+                "PERFIL GARGANTA - PERFIL PARA LED HASTA 20W/M / CINTAS HASTA 12 MM DE ANCHO - PARA PLACAS DE 5 A 25 MM": {
+                    "name": "PERFIL GARGANTA - PERFIL PARA LED HASTA 20W/M / CINTAS HASTA 12 MM DE ANCHO - PARA PLACAS DE 5 A 25 MM",
+                    "route": "/",
+                    "content": {}
+                },
+                "PERFIL DE EMBUTIR - PERFIL PARA LED HASTA 50W/M / CINTAS HASTA 50 MM DE ANCHO - PARA PLACAS DE 5 A 25 MM": {
+                    "name": "PERFIL DE EMBUTIR - PERFIL PARA LED HASTA 50W/M / CINTAS HASTA 50 MM DE ANCHO - PARA PLACAS DE 5 A 25 MM",
+                    "route": "/",
+                    "content": {}
+                },
+                "ACCESORIOS PARA PERFILERIA - GRAMPAS Y PUNTERAS": {
+                    "name": "ACCESORIOS PARA PERFILERIA - GRAMPAS Y PUNTERAS",
+                    "route": "/",
+                    "content": {}
+                },
+                "DIFUSORES PARA PERFILERIA": {
+                    "name": "DIFUSORES PARA PERFILERIA",
+                    "route": "/",
+                    "content": {}
+                },
+                "LISTONES ARMADOS - PERFIL PP01 - 12 VOLT": {
+                    "name": "LISTONES ARMADOS - PERFIL PP01 - 12 VOLT",
+                    "route": "/",
+                    "content": {}
+                },
+                "LISTONES ARMADOS PLÁSTICOS - LED COB - 220 VOLT": {
+                    "name": "LISTONES ARMADOS PLÁSTICOS - LED COB - 220 VOLT",
+                    "route": "/",
+                    "content": {}
+                },
+                "LISTONES ARMADOS PLÁSTICOS - LED 5630 - 220 VOLT": {
+                    "name": "LISTONES ARMADOS PLÁSTICOS - LED 5630 - 220 VOLT",
+                    "route": "/",
+                    "content": {}
+                }
+            }
+        },
+        "SENSORES": {
+            "name": "Sensores",
+            "route": "/",
+            "content": [
+                ""
+            ],
+            "list_of_types": {}
+        },
+        "CABLES": {
+            "name": "Cables",
+            "route": "/",
+            "content": [
+                ""
+            ],
+            "list_of_types": {}
+        }
+    }
+]

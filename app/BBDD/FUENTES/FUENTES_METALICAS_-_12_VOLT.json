@@ -1,0 +1,128 @@
+[
+    {
+        "img": "200000",
+        "objects": [
+            {
+                "img": "200-001",
+                "code": "FG-2M",
+                "description": "Fuente genérica switching metálica - 2 Amp - Salida 12 volt  /  Entrada 220 volt - IP20",
+                "measures": "8.5 x 5.8 x 3.5",
+                "amp": "2",
+                "watt": "24",
+                "out": "Bornera",
+                "pack": "5",
+                "price": "13,20"
+            },
+            {
+                "img": "200-002",
+                "code": "FG-3M",
+                "description": "Fuente genérica switching metálica - 3 Amp - Salida 12 volt  /  Entrada 220 volt - IP20",
+                "measures": "11 x 8 x 3.7",
+                "amp": "3",
+                "watt": "36",
+                "out": "Bornera",
+                "pack": "5",
+                "price": "16,70"
+            },
+            {
+                "img": "200-003",
+                "code": "FG-5M",
+                "description": "Fuente genérica switching metálica - 5 Amp - Salida 12 volt  /  Entrada 220 volt - IP20",
+                "measures": "11 x 7.8 x 3.5",
+                "amp": "5",
+                "watt": "60",
+                "out": "Bornera",
+                "pack": "5",
+                "price": "22,00"
+            },
+            {
+                "img": "200-004",
+                "code": "FG-10M",
+                "description": "Fuente genérica switching metálica - 10 Amp - Salida 12 volt  /  Entrada 220 volt - IP20",
+                "measures": "20 x 9.8 x 4.3",
+                "amp": "10",
+                "watt": "120",
+                "out": "Bornera",
+                "pack": "3",
+                "price": "35,00"
+            },
+            {
+                "img": "200-005",
+                "code": "FG-15M",
+                "description": "Fuente genérica switching metálica - 15 Amp - Salida 12 volt  /  Entrada 220 volt - IP20",
+                "measures": "20 x 9.8 x 4.2",
+                "amp": "15",
+                "watt": "180",
+                "out": "Bornera",
+                "pack": "3",
+                "price": "49,00"
+            },
+            {
+                "img": "200-006",
+                "code": "FG-20M",
+                "description": "Fuente genérica switching metálica - 20 Amp - Salida 12 volt  /  Entrada 220 volt - IP20",
+                "measures": "20 x 11 x 5",
+                "amp": "20",
+                "watt": "240",
+                "out": "Bornera",
+                "pack": "3",
+                "price": "58,00"
+            },
+            {
+                "img": "200-007",
+                "code": "FG-30M",
+                "description": "Fuente genérica switching metálica - 30 Amp - Salida 12 volt  /  Entrada 220 volt - IP20",
+                "measures": "21.5 x 11 x 8.5",
+                "amp": "30",
+                "watt": "360",
+                "out": "Bornera",
+                "pack": "3",
+                "price": "73,00"
+            },
+            {
+                "img": "200-008",
+                "code": "FG-40M",
+                "description": "Fuente genérica switching metálica - 40 Amp - Salida 12 volt  /  Entrada 220 volt - IP20",
+                "measures": "24.1 x 2.4 x 6.5",
+                "amp": "40",
+                "watt": "480",
+                "out": "Bornera",
+                "pack": "1",
+                "price": "93,00"
+            },
+            {
+                "img": "200-009",
+                "code": "FG-5M-IP67",
+                "description": "Fuente genérica switching metálica - 5 Amp - Salida 12 volt  /  Entrada 220 volt  - Estanca IP67",
+                "measures": "15.5 x 4.5 x 2",
+                "amp": "5",
+                "watt": "60",
+                "out": "Bornera",
+                "pack": "1",
+                "price": "65,50"
+            },
+            {
+                "img": "200-010",
+                "code": "FG-10M-IP67",
+                "description": "Fuente genérica switching metálica - 10 Amp - Salida 12 volt  /  Entrada 220 volt  - Estanca IP67",
+                "measures": "19.5 x 6.5 x 3",
+                "amp": "0",
+                "watt": "120",
+                "out": "Bornera",
+                "pack": "1",
+                "price": "114,00"
+            },
+            {
+                "img": "200-011",
+                "code": "FG-12.5M-IP67",
+                "description": "Fuente genérica switching metálica - 12.5 Amp - Salida 12 volt  /  Entrada 220 volt  - Estanca IP67",
+                "measures": "21.6 x 6.5 x 3",
+                "amp": "12,5",
+                "watt": "150",
+                "out": "Bornera",
+                "pack": "1",
+                "price": "128,00"
+            }
+        ]
+    }
+]

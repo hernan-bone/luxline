@@ -1,0 +1,37 @@
+[
+  {
+    "img": "200010",
+    "objects": [
+      {
+        "img": "210-001",
+        "code": "PEXL-AO-3",
+        "description": "Perfil de embutir XL con punteras y grampas de sujeción - Aluminio anodizado - Largo de 3 mts / Protector Opal - Perfil PEXL",
+        "pun-rsort": "6 Punteras, 12 Resortes",
+        "material": "Aluminio anodizado",
+        "dfsor": "Opal",
+        "pack": "1",
+        "price": "187,50"
+      },
+      {
+        "img": "210-002",
+        "code": "PEXL-BO-3",
+        "description": "Perfil de embutir XL con punteras y grampas de sujeción - Aluminio pintado con epoxi blanco - Largo de 3 mts / Protector Opal - Perfil PEXL",
+        "pun-rsort": "6 Punteras, 12 Resortes",
+        "material": "Aluminio anodizado",
+        "dfsor": "Opal",
+        "pack": "1",
+        "price": "194,44"
+      },
+      {
+        "img": "210-003",
+        "code": "PEXL-NO-3",
+        "description": "Perfil de embutir XL con punteras y grampas de sujeción - Negro - Largo de 3 mts / Protector Opal - Perfil PEXL",
+        "pun-rsort": "6 Punteras, 12 Resortes",
+        "material": "Aluminio anodizado",
+        "dfsor": "Opal",
+        "pack": "1",
+        "price": "194,44"
+      }
+    ]
+  }
+]

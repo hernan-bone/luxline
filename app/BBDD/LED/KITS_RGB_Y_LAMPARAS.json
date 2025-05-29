@@ -1,0 +1,79 @@
+[
+    {
+        "img": "000009",
+        "objects": [
+            {
+                "img": "09-001",
+                "code": "KIT-RGB-ECO",
+                "description": "KIT - Rollo cinta led 5050 RGB - 12 volt - 60 led/m - Largo de 5 mts *Fuente plástica 3 Amp *Económico",
+                "lm": "1100",
+                "w/m": "7",
+                "prot": "IP65",
+                "led/m": "60",
+                "ct": "-",
+                "pack": "5",
+                "price": "29,00"
+            },
+            {
+                "img": "09-002",
+                "code": "KIT-RGBI",
+                "description": "KIT - Rollo cinta led 5050 RGB Interior - 12 volt - 60 led/m - Largo de 5 mts *Fuente plástica 3 Amp *Controladora Infrarroja 24 teclas",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP20",
+                "led/m": "60",
+                "ct": "-",
+                "pack": "1",
+                "price": "48,00"
+            },
+            {
+                "img": "09-003",
+                "code": "KIT-RGBE",
+                "description": "KIT - Rollo cinta led 5050 RGB Exterior - 12 volt - 60 led/m - Largo de 5 mts *Fuente plástica 3 Amp *Controladora Infrarroja 24 teclas",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP65",
+                "led/m": "60",
+                "ct": "-",
+                "pack": "1",
+                "price": "52,00"
+            },
+            {
+                "img": "09-004",
+                "code": "KIT-RGBI-BTH",
+                "description": "KIT - Rollo cinta led 5050 RGB Interior - 12 volt - 60 led/m - Largo de 5 mts *Fuente plástica 3 Amp *Controladora Bluetooth",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP20",
+                "led/m": "60",
+                "ct": "-",
+                "pack": "1",
+                "price": "64,14"
+            },
+            {
+                "img": "09-005",
+                "code": "KIT-RGBE-BTH",
+                "description": "KIT - Rollo cinta led 5050 RGB Exterior - 12 volt - 60 led/m - Largo de 5 mts *Fuente plástica 3 Amp *Controladora Bluetooth",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP65",
+                "led/m": "60",
+                "ct": "-",
+                "pack": "1",
+                "price": "66,00"
+            },
+            {
+                "img": "09-006",
+                "code": "L24",
+                "description": "Lámpara bulbo RGBW con control remoto y rosca E27 - 220 volt - 10 Watt - Dimmerizable - Efecto 16 colores",
+                "lm": "1500",
+                "w/m": "10",
+                "prot": "IP20",
+                "led/m": "-",
+                "ct": "-",
+                "pack": "5",
+                "price": "15,00"
+            }
+        ]
+    }
+]

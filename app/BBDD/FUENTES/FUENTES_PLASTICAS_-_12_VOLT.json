@@ -1,0 +1,62 @@
+[
+    {
+        "img": "200005",
+        "objects": [
+            {
+                "img": "205-001",
+                "code": "F1P",
+                "description": "Fuente switching plástica - 1 Amp - Salida 12 Volt - Enchufable  /  Entrada 220 volt - IP20",
+                "measures": "12 x 3.5 x 2.3",
+                "amp": "1",
+                "watt": "12",
+                "out": "Plug 5.5",
+                "pack": "5",
+                "price": "12,00"
+            },
+            {
+                "img": "205-002",
+                "code": "F2P",
+                "description": "Fuente switching plástica - 2 Amp - Salida 12 Volt - Enchufable  /  Entrada 220 volt - IP20",
+                "measures": "17 x 3.5 x 2.5",
+                "amp": "2",
+                "watt": "24",
+                "out": "Plug 5.5",
+                "pack": "5",
+                "price": "14,00"
+            },
+            {
+                "img": "205-003",
+                "code": "F3P",
+                "description": "Fuente switching plástica - 3 Amp - Salida 12 Volt - Enchufable  /  Entrada 220 volt - IP20",
+                "measures": "19.5 x 4.5 x 3",
+                "amp": "3",
+                "watt": "36",
+                "out": "Plug 5.5",
+                "pack": "5",
+                "price": "22,00"
+            },
+            {
+                "img": "205-004",
+                "code": "F5P",
+                "description": "Fuente switching plástica - 5 Amp - Salida 12 Volt - Enchufable  /  Entrada 220 volt - IP20",
+                "measures": "21 x 6.3 x 3",
+                "amp": "5",
+                "watt": "60",
+                "out": "Plug 5.5",
+                "pack": "5",
+                "price": "25,00"
+            },
+            {
+                "img": "205-005",
+                "code": "F6P",
+                "description": "Fuente switching plástica - 6 Amp - Salida 12 Volt - Enchufable  /  Entrada 220 volt - IP20",
+                "measures": "21 x 6.3 x 3",
+                "amp": "6",
+                "watt": "72",
+                "out": "Plug 5.5",
+                "pack": "5",
+                "price": "33,00"
+            }
+        ]
+    }
+]

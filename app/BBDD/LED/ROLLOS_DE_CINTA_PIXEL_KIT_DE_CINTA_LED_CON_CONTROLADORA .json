@@ -1,0 +1,67 @@
+[
+    {
+        "img": "000002",
+        "objects": [
+            {
+                "img": "02-001",
+                "code": "P2811-RGB",
+                "description": "Rollo cinta led Píxel 2811 RGB - 12 volt - 1500 Lm/m - 14.4 w/m - 60 led/m - IP20 - Largo de 5 mts",
+                "lm": "1500",
+                "w/m": "14,4",
+                "prot": "IP20",
+                "led/m": "60",
+                "ct": "-",
+                "pack": "1",
+                "price": "PROXIMAMENTE"
+            },
+            {
+                "img": "02-002",
+                "code": "P2812-RGB",
+                "description": "Rollo cinta led Píxel 2811 RGB - 12 volt - 1500 Lm/m - 14.4 w/m - 60 led/m - IP20 - Largo de 5 mts",
+                "lm": "1500",
+                "w/m": "14,4",
+                "prot": "IP20",
+                "led/m": "60",
+                "ct": "-",
+                "pack": "1",
+                "price": "PROXIMAMENTE"
+            },
+            {
+                "img": "02-003",
+                "code": "KIT-P2835-ROI-120",
+                "description": "KIT - *Rollo cinta led Pixel Rojo Interior - 24 volt - 120 led/m - Ancho de 8 mm - Largo de 10 mts *Controladora inalámbrica *La cinta se corta cada 15 leds",
+                "lm": "2000",
+                "w/m": "15",
+                "prot": "IP20",
+                "led/m": "120",
+                "ct": "-",
+                "pack": "1",
+                "price": "PROXIMAMENTE"
+            },
+            {
+                "img": "02-004",
+                "code": "KIT-P2835-BFI-120",
+                "description": "KIT - *Rollo cinta led Pixel Blanco Frio Interior - 24 volt - 120 led/m - Ancho de 8 mm - Largo de 10 mts *Controladora inalámbrica *La cinta se corta cada 15 leds",
+                "lm": "1800",
+                "w/m": "14,4",
+                "prot": "IP20",
+                "led/m": "120",
+                "ct": "-",
+                "pack": "1",
+                "price": "110,00"
+            },
+            {
+                "img": "02-005",
+                "code": "KIT-P2835-BCI-120",
+                "description": "KIT - *Rollo cinta led Pixel Blanco Cálido Interior - 24 volt - 120 led/m - Ancho de 8 mm - Largo de 10 mts *Controladora inalámbrica *La cinta se corta cada 15 leds",
+                "lm": "1800",
+                "w/m": "14,4",
+                "prot": "IP20",
+                "led/m": "120",
+                "ct": "-",
+                "pack": "1",
+                "price": "110,00"
+            }
+        ]
+    }
+]

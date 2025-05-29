@@ -1,0 +1,51 @@
+[
+    {
+        "img": "200006",
+        "objects": [
+            {
+                "img": "206-001",
+                "code": "F1P-SC",
+                "description": "Fuente switching plástica - 1 Amp - Salida 12 Volt - Enchufable  /  Entrada 220 volt - IP20",
+                "measures": "12 x 3.5 x 2.3",
+                "amp": "1",
+                "watt": "12",
+                "out": "Plug 5.5",
+                "pack": "10",
+                "price": "5,50"
+            },
+            {
+                "img": "206-002",
+                "code": "F2P-SC",
+                "description": "Fuente switching plástica - 2 Amp - Salida 12 Volt - Enchufable  /  Entrada 220 volt - IP20",
+                "measures": "17 x 3.5 x 2.5",
+                "amp": "2",
+                "watt": "24",
+                "out": "Plug 5.5",
+                "pack": "10",
+                "price": "7,00"
+            },
+            {
+                "img": "206-003",
+                "code": "F3P-SC",
+                "description": "Fuente switching plástica - 3 Amp - Salida 12 Volt - Enchufable  /  Entrada 220 volt - IP20",
+                "measures": "19.5 x 4.5 x 3",
+                "amp": "3",
+                "watt": "36",
+                "out": "Plug 5.5",
+                "pack": "10",
+                "price": "9,00"
+            },
+            {
+                "img": "206-004",
+                "code": "F4P-SC",
+                "description": "Fuente switching plástica - 4 Amp - Salida 12 Volt - Enchufable  /  Entrada 220 volt - IP20",
+                "measures": "21 x 6.3 x 3",
+                "amp": "4",
+                "watt": "48",
+                "out": "Plug 5.5",
+                "pack": "10",
+                "price": "11,00"
+            }
+        ]
+    }
+]

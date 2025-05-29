@@ -1,0 +1,127 @@
+[
+    {
+        "img": "10005",
+        "objects": [
+            {
+                "img": "15-001",
+                "code": "MN12-BF-50",
+                "description": "Manguera neón con led 2835 - Bco. Frio - 12 volt - 1100 Lm/m - 14.4 w/m - 120 led/m - Sección 6 x 12 mm - Largo de 50 mts",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "6000ºK",
+                "pack": "50 Metros",
+                "price": "310,00"
+            },
+            {
+                "img": "15-002",
+                "code": "MN12-BN-50",
+                "description": "Manguera neón con led 2835 - Bco. Neutro - 12 volt - 1100 Lm/m - 14.4 w/m - 120 led/m - Sección 6 x 12 mm - Largo de 50 mts",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "3000ºK",
+                "pack": "50 Metros",
+                "price": "310,00"
+            },
+            {
+                "img": "15-003",
+                "code": "MN12-BC-50",
+                "description": "Manguera neón con led 2835 - Bco. Cálido - 12 volt - 1100 Lm/m - 14.4 w/m - 120 led/m - Sección 6 x 12 mm - Largo de 50 mts",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "4000ºK",
+                "pack": "50 Metros",
+                "price": "310,00"
+            },
+            {
+                "img": "15-004",
+                "code": "MN12-AZ-50",
+                "description": "Manguera neón con led 2835 - Azul - 12 volt - 1100 Lm/m - 14.4 w/m - 120 led/m - Sección 6 x 12 mm - Largo de 50 mts",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "-",
+                "pack": "50 Metros",
+                "price": "310,00"
+            },
+            {
+                "img": "15-005",
+                "code": "MN12-RO-50",
+                "description": "Manguera neón con led 2835 - Rojo - 12 volt - 1100 Lm/m - 14.4 w/m - 120 led/m - Sección 6 x 12 mm - Largo de 50 mts",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "-",
+                "pack": "50 Metros",
+                "price": "310,00"
+            },
+            {
+                "img": "15-006",
+                "code": "MN12-V-50",
+                "description": "Manguera neón con led 2835 - Verde - 12 volt - 1100 Lm/m - 14.4 w/m - 120 led/m - Sección 6 x 12 mm - Largo de 50 mts",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "-",
+                "pack": "50 Metros",
+                "price": "310,00"
+            },
+            {
+                "img": "15-007",
+                "code": "MN12-RS-50",
+                "description": "Manguera neón con led 2835 - Rosa - 12 volt - 1100 Lm/m - 14.4 w/m - 120 led/m - Sección 6 x 12 mm - Largo de 50 mts",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "-",
+                "pack": "50 Metros",
+                "price": "310,00"
+            },
+            {
+                "img": "15-008",
+                "code": "MN12-NA-50",
+                "description": "Manguera neón con led 2835 - Naranja - 12 volt - 1100 Lm/m - 14.4 w/m - 120 led/m - Sección 6 x 12 mm - Largo de 50 mts",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "-",
+                "pack": "50 Metros",
+                "price": "310,00"
+            },
+            {
+                "img": "15-009",
+                "code": "MN12-AM-50",
+                "description": "Manguera neón con led 2835 - Amarillo - 12 volt - 1100 Lm/m - 14.4 w/m - 120 led/m - Sección 6 x 12 mm - Largo de 50 mts",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "-",
+                "pack": "50 Metros",
+                "price": "310,00"
+            },
+            {
+                "img": "15-0010",
+                "code": "MN12-RGB-50",
+                "description": "Manguera neón con led 2835 - RGB - 12 volt - 1100 Lm/m - 14.4 w/m - 120 led/m - Sección 6 x 12 mm - Largo de 50 mts",
+                "lm": "1100",
+                "w/m": "14,4",
+                "prot": "IP67",
+                "led/m": "120",
+                "ct": "-",
+                "pack": "50 Metros",
+                "price": "900,00"
+            }
+        ]
+    }
+]
