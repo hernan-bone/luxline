@@ -2,18 +2,20 @@
     {
         "LED": {
             "name": "Led",
-            "route": "/",
+            "img": "bulbos.png",
+            "route": "/led",
             "content": [
-                "Rollos leds",
-                "Kits RGB Y lámparas",
-                "Módulos led 12V (5050/5630/COB/COB CL/6012)",
-                "Pastillas led 220V",
+                "Rollos Leds",
+                "Kits RGB Y Lámparas",
+                "Módulos Led (12V)",
+                "Pastillas Leds (220V)",
                 "Controladoras"
             ],
             "list_of_types": {
                 "Rollos": {
                     "name": "Rollos leds",
                     "route": "/",
+                    "img": "dicroicas.png",
                     "content": [
                         "ROLLOS DE CINTA LED SMD 2835 - 10 MTS DE LARGO - 220 VOLT DIRECTO",
                         "ROLLOS DE CINTA PIXEL / KIT DE CINTA LED CON CONTROLADORA",
@@ -135,20 +137,21 @@
             }
         },
         "MANGUERAS_DE_NEON": {
-            "name": "Mangueras de neón",
-            "route": "/",
+            "name": "Mangueras de Neón",
+            "route": "/neon",
+            "img": "bipin.png",
             "content": [
-                "MANGUERAS NEÓN - SECCIÓN 8 x 16 MM - 100 MTS DE LARGO - 220 VOLT",
-                "ACCESORIOS PARA MANGUERA NEÓN 220 VOLT",
-                "MANGUERAS NEÓN - SECCIÓN 6 x 12 MM - 5 MTS DE LARGO -  12 VOLT",
-                "MANGUERAS NEÓN - SECCIÓN 5 x 11 MM - 5 MTS DE LARGO -  12 VOLT",
-                "KITS MANGUERA NEÓN",
-                "MANGUERAS NEÓN - SECCIÓN 6 x 12 MM - 50 MTS DE LARGO -  12 VOLT",
-                "MANGUERAS NEÓN - SECCIÓN 5 x 11 MM - 50 MTS DE LARGO -  12 VOLT",
-                "ACCESORIOS PARA MANGUERA NEÓN 12 VOLT",
-                "MANGUERAS NEÓN - SECCIÓN 6 x 12 MM - 5 MTS DE LARGO -  24 VOLT",
-                "MANGUERAS NEÓN - SECCIÓN 6 x 12 MM - 50 MTS DE LARGO -  24 VOLT",
-                "MANGUERAS NEÓN - SECCIÓN CUADRADA - 50 MTS DE LARGO -  24 VOLT"
+                "Sec. 5x11mm (5mts-12V)",
+                "Sec. 6x12mm (5mts-12V)",
+                "Sec. 6x12mm (5mts-24V)",
+                "Sec. 5x11mm (50mts-12V)",
+                "Sec. 6x12mm (50mts-12V)",
+                "Sec. 6x12mm (50mts-24V)",
+                "Sec. Cuadrado (50mts-24V)",
+                "Sec. 8x16mm (100mts-220V)",
+                "Accesorios (12V)",
+                "Accesorios (220V)",
+                "Kits"
             ],
             "list_of_types": {
                 "MANGUERAS NEÓN - SECCIÓN 8 x 16 MM - 100 MTS DE LARGO - 220 VOLT": {
@@ -210,15 +213,16 @@
         },
         "FUENTES": {
             "name": "Fuentes",
-            "route": "/",
+            "route": "/fuentes",
+            "img": "ar111.png",
             "content": [
-                "FUENTES METÁLICAS - 12 VOLT",
-                "FUENTES METÁLICAS - 24 VOLT",
-                "FUENTES METÁLICAS SLIM - 12 VOLT",
-                "FUENTES METÁLICAS ULTRA SLIM - 12 VOLT",
-                "FUENTES METÁLICAS ULTRA SLIM - 24 VOLT",
-                "FUENTES PLÁSTICAS - 12 VOLT",
-                "FUENTES PLÁSTICAS - 12 VOLT - SIN CAJA"
+                "F. Metálica (12V)",
+                "F. Metálica (24V)",
+                "F. Metálica Slim (12V)",
+                "F. Metálica Ultra Slim (12V)",
+                "F. Metálica Ultra Slim (24V)",
+                "F. Plástica (12V)",
+                "F. Plástica (12V-Sin caja)"
             ],
             "list_of_types": {
                 "FUENTES METÁLICAS - 12 VOLT": {
@@ -260,23 +264,24 @@
         },
         "PERFILERIA": {
             "name": "Perfileria",
-            "route": "/",
+            "route": "/perfiles",
+            "img": "dicroicas.png",
             "content": [
-                "PERFIL DE ALUMINIO DE OBRA",
-                "PERFIL PP02 - PERFIL PARA LED HASTA 20W/M / CINTAS HASTA 8 MM DE ANCHO",
-                "PERFIL PP03 - PERFIL PARA LED HASTA 20W/M / CINTAS HASTA 8 MM DE ANCHO",
-                "PERFIL ÁNGULO - PERFIL PARA LED HASTA 20W/M / CINTAS HASTA 10 MM DE ANCHO - ILUMINACION A 45°",
-                "PERFIL PARA VIDRIO - PERFIL PARA LED HASTA 20W/M / CINTAS HASTA 12 MM DE ANCHO - PARA VIDRIO DE 8 MM",
-                "PERFIL DE EMBUTIR - PERFIL PARA LED HASTA 30W/M / CINTAS HASTA 12 MM DE ANCHO - PARA PLACAS DE 5 A 25 MM",
-                "PERFIL H - PERFIL PARA LED HASTA 30W/M / CINTAS HASTA 12 MM DE ANCHO - PARA COLGAR CON SIMPLE O DOBLE TIRA LED",
-                "PERFIL PERCHERO Y SOPORTES",
-                "PERFIL GARGANTA - PERFIL PARA LED HASTA 20W/M / CINTAS HASTA 12 MM DE ANCHO - PARA PLACAS DE 5 A 25 MM",
-                "PERFIL DE EMBUTIR - PERFIL PARA LED HASTA 50W/M / CINTAS HASTA 50 MM DE ANCHO - PARA PLACAS DE 5 A 25 MM",
-                "ACCESORIOS PARA PERFILERIA - GRAMPAS Y PUNTERAS",
-                "DIFUSORES PARA PERFILERIA",
-                "LISTONES ARMADOS - PERFIL PP01 - 12 VOLT",
-                "LISTONES ARMADOS PLÁSTICOS - LED COB - 220 VOLT",
-                "LISTONES ARMADOS PLÁSTICOS - LED 5630 - 220 VOLT"
+                "Aluminio (de Obra)",
+                "PP02 (20w/m-8mm)",
+                "PP03 (20W/M-8mm)",
+                "P. Ángulo (20w/m-10mm-45°)",
+                "P. Vidrio 8mm (20w/m-12mm)",
+                "P. Embutir (30w/m-12mm)",
+                "Perfil H",
+                "Percheros y Soportes",
+                "Perfil Garganta",
+                "P. Embutir (50w/m-50mm)",
+                "Accesorios (Grampas y Punteras)",
+                "Difusores",
+                "Listones (PP01 12V)",
+                "Listones Plástico (COB 220V)",
+                "Listones Plástico (5630 220V)"
             ],
             "list_of_types": {
                 "PERFIL DE ALUMINIO DE OBRA": {
@@ -358,7 +363,8 @@
         },
         "SENSORES": {
             "name": "Sensores",
-            "route": "/",
+            "route": "/sensores",
+            "img": "filamento.png",
             "content": [
                 ""
             ],
@@ -366,7 +372,8 @@
         },
         "CABLES": {
             "name": "Cables",
-            "route": "/",
+            "route": "/cables",
+            "img": "tubos.png",
             "content": [
                 ""
             ],
