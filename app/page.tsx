@@ -61,14 +61,20 @@
 //   )
 // }
 
+'use client';
+
 import React from 'react';
 
-export default function Page() {
+export default function UnderConstruction() {
   return (
-    <div className="flex items-center justify-center h-screen bg-gray-100">
-      <div className="text-center">
-        <h1 className="text-5xl font-bold mb-4">Página en construcción</h1>
-        <p className="text-xl text-gray-600">Estamos trabajando en esto. ¡Vuelve pronto!</p>
+    <div className="flex items-center justify-center min-h-screen bg-gray-100 px-4">
+      <div className="text-center max-w-lg mx-auto">
+        <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4">
+          Página en construcción
+        </h1>
+        <p className="text-base sm:text-lg md:text-xl text-gray-600">
+          Estamos trabajando en esto. ¡Vuelve pronto!
+        </p>
       </div>
     </div>
   );
